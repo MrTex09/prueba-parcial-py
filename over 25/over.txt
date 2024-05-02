@@ -1,0 +1,10 @@
+Ejercicio de Pandas
+Se les ha proporcionado un archivo CSV que contiene una lista de 250 personas junto
+con sus fechas de nacimiento, que van desde 1990 hasta 2004. Su tarea es la siguiente:
+
+● Importar los datos del archivo, pero solo incluir a aquellas personas que sean
+mayores de 25 años.
+● Ordenar las edades en forma ascendente.
+● Determinar cuántas edades distintas existen y la frecuencia de cada una.
+● Crear un DataFrame que incluya dos columnas: una para las edades y otra para
+la frecuencia de cada edad.

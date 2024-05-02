@@ -1,0 +1,11 @@
+Especificaciones de la Función:
+Nombre de la función:
+● El nombre de la función debe ser: girl_or_boy
+Parámetros:
+● nombre_usuario: Una cadena que contiene solo letras en minúscula.
+
+Retorno:
+● La función devuelve la cadena "¡ITS A GIRL!" si el número de caracteres
+distintos es par.
+● La función devuelve la cadena "¡ITS A BOY!" si el número de caracteres
+distintos es impar.
