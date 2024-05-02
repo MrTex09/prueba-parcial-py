@@ -7,7 +7,7 @@ def girl_or_boy(nombre_usuario):
     if len(nombre_usuario) == 0:
         raise ValueError("El parametro recibido es una cadena vacia")
     
-    if not nombre_usuario.isalpha() or not nombre_usuario.islower():
+    if  not nombre_usuario.islower():
         raise ValueError("El nombre debe contener solo letras en minúscula.")
 
     try:
